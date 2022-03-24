@@ -1,0 +1,2 @@
+﻿given_address,lat,lon,formatted,name,housenumber,street,postcode,suburb,city,county,country,country_code,confidence,confidence_city_level,confidence_street_level,attribution,attribution_license,attribution_url
+"7 TEMASEK BOULEVARD, #12-07 SUNTEC TOWER ONE SINGAPORE (038987)",1.295351,103.8583839,"BASF South East Asia Pte. Ltd., 7 Temasek Boulevard, Singapore 038987, Singapore",BASF South East Asia Pte. Ltd.,7,Temasek Boulevard,038987,Downtown Core,Singapore,Central,Singapore,sg,1,1,1,© OpenStreetMap contributors,Open Database License,https://www.openstreetmap.org/copyright
